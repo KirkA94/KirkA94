@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Kirk Austin
 
-<!--
-**KirkA94/KirkA94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at CUNY Lehman College (GPA: 3.7)  
+Aspiring Software Engineer focused on backend and full-stack development  
 
-Here are some ideas to get you started:
+## Tech Stack
+- Java, Spring Boot, Python  
+- React, JavaScript, TypeScript  
+- PostgreSQL, MongoDB  
+- Git, REST APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Building full-stack applications  
+- Practicing data structures & algorithms  
+- Preparing for Software Engineering internships (2026)  
+
+## Contact
+- LinkedIn: https://linkedin.com/in/kirk-a-austin  
+- GitHub: https://github.com/KirkA94  
